@@ -1,6 +1,7 @@
 # MedRec
 MedRec: Medical recommender system for image classification without retraining
 
+![image](https://github.com/user-attachments/assets/10de5752-540a-4b8d-95ff-cf2727ec1753)
 
 # Classification Task
 
