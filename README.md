@@ -19,6 +19,20 @@ MedRec: Medical recommender system for image classification without retraining
 - Capsule Net
 - Transfer learning (ResNet, DenseNet, VGG16,...)
 
+# phases
+
+**Create MedRec dataset**
+
+**Write dataset report**
+
+
+**Train Transformer recommander model**
+
+**Testing in real data**
+
+**Save weights and public code**
+
+
 # References
 -  Keerthana, Duggani, et al. "Hybrid convolutional neural networks with SVM classifier for classification of skin cancer." Biomedical Engineering Advances 5 (2023): 100069.
 - Alquran, Hiam, et al. "The melanoma skin cancer detection and classification using support vector machine." 2017 IEEE Jordan conference on applied electrical engineering and computing technologies (AEECT). IEEE, 2017.
