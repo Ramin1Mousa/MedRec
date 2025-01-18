@@ -26,9 +26,9 @@ MedRec: Medical recommender system for image classification without retraining
 
 **Create MedRec dataset**
 
-Ref | #Sample| #Train | #Test | #Validation | K-fold | Width | hight | #channel | #Class | Domain | Agument| Agument| Agument| Agument| Agument| Agument
+Ref | #Sample| #Train | #Test | #Validation | K-fold | Width | hight | #channel | #Class | Domain | Accu| Pre| Rec| F1| AUC| Model
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---|---|---|---|---|---
-[1] | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269| 269| 269| 269| 269| 269
+[1] | 10000 | 7000 | 20000 |10000 | Yes | 255 | 255 | 3 | 2 | Tumor Classification | 0.91| 0.90| 0.93| 0.92| 0.92| SVM
 
 
 **Write dataset report**
