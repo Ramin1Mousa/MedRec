@@ -2,10 +2,21 @@
 MedRec: Medical recommender system for image classification without retraining
 
 
-\section{Classification Task}
+***Classification Task**
+\beging{enumerate}
+\item Traditional ML
+\begin{itemaize}
+\item SVM
+\item
+\item
+\end{itemzize}
+\item
+\item
+
+\end{enumerate}
 \subsection{ Skin Cancer Classification}
 
-\subsubsection{Skin/Traditional ML}
+\subsubsection{Skin/}
 \input{Skin/SVM DT}
 \input{Skin/Random Forest}
 \input{Skin/XGBOOST}
