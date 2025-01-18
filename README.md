@@ -2,41 +2,19 @@
 MedRec: Medical recommender system for image classification without retraining
 
 
-***Classification Task**
-\beging{enumerate}
-\item Traditional ML
-\begin{itemaize}
-\item SVM
-\item
-\item
-\end{itemzize}
-\item
-\item
+# Classification Task
 
-\end{enumerate}
-\subsection{ Skin Cancer Classification}
+**Traditional ML**
 
-\subsubsection{Skin/}
-\input{Skin/SVM DT}
-\input{Skin/Random Forest}
-\input{Skin/XGBOOST}
-\input{Skin/logistic}
-\input{Skin/CNN}
-\input{Skin/LSTM}
-\input{Skin/TRansfer learning}
-\input{Skin/CapsuleNet}
 
-\subsection{Tumor Classification}
+- Support Vector Machine (SVM)
+- Decision Tree (DT)
+- Random Forest (RF)
+- XGBoost
 
-\input{Tumor/SVM}
-\input{Tumor/DT}
-\input{Tumor/RF}
-\input{Tumor/XGBoost}
-\input{Tumor/LSTM}
-\input{Tumor/CNN}
-\input{Tumor/Transfer}
-\input{Tumor/TransLEARNIGN}
-\input{Tumor/CapsuleNEt}
+**Deep leaning**
 
-\subsection{Wound Classification}
-\input{WounD/Wound}
+- CNN
+- LSTM and GRU
+- Capsule Net
+- Transfer learning (ResNet, DenseNet, VGG16,...)
