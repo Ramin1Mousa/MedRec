@@ -26,9 +26,9 @@ MedRec: Medical recommender system for image classification without retraining
 
 **Create MedRec dataset**
 
-Ref | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+Ref | #Sample| #Train | #Test | #Validation | K-fold | Width | hight | #channel | #Class | Domain | Agument
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+[1] | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 
 **Write dataset report**
