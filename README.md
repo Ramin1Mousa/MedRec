@@ -19,6 +19,8 @@ MedRec: Medical recommender system for image classification without retraining
 - LSTM and GRU
 - Capsule Net
 - Transfer learning (ResNet, DenseNet, VGG16,...)
+- Transformer
+- Swin Transformer
 
 # phases
 
