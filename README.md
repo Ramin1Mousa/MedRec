@@ -1,7 +1,8 @@
 # MedicalRec
 MedicalRec: Medical recommender system for image classification without retraining
 
-![image](https://github.com/user-attachments/assets/10de5752-540a-4b8d-95ff-cf2727ec1753)
+![image](https://github.com/user-attachments/assets/66c386ee-cf30-44da-9fb2-110fcd0a579d)
+
 
 # Classification Task
 
